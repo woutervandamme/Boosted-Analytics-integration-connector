@@ -5,7 +5,7 @@
     "companyUrl": "https://script.gs/",
     "logoUrl": "https://boostedanalytics.be/assets/logo/logo.jpg",
     "addonUrl": "https://github.com/schoraria911/gds-community-connectors/tree/master/SendGrid/Global%20Stats",
-    "supportUrl": "https://github.com/schoraria911/gds-community-connectors/issues/new?title=SendGrid%20Global%20Stats%20Connector%20Issue",
+    "supportUrl": "https://github.com/woutervandamme/Boosted-Analytics-integration-connector",
     "description": "Boosted analytics",
     "shortDescription": "Boosted analytics",
     "authType": ["KEY"],
