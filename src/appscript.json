@@ -1,0 +1,19 @@
+{
+  "dataStudio": {
+    "name": "Boosted Analytics connector",
+    "company": "Boosted Analytics",
+    "companyUrl": "https://script.gs/",
+    "logoUrl": "https://boostedanalytics.be/assets/logo/logo.jpg",
+    "addonUrl": "https://github.com/schoraria911/gds-community-connectors/tree/master/SendGrid/Global%20Stats",
+    "supportUrl": "https://github.com/schoraria911/gds-community-connectors/issues/new?title=SendGrid%20Global%20Stats%20Connector%20Issue",
+    "description": "Boosted analytics",
+    "shortDescription": "Boosted analytics",
+    "authType": ["KEY"],
+    "feeType": ["FREE"],
+    "useQueryConfig": false
+  },
+  "urlFetchWhitelist": [
+    "https://api.sendgrid.com/v3/",
+    "https://boostedanalytics.be/"
+  ]
+}
