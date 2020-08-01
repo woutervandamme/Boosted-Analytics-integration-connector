@@ -13,7 +13,6 @@
     "useQueryConfig": false
   },
   "urlFetchWhitelist": [
-    "https://api.sendgrid.com/v3/",
     "https://boostedanalytics.be/"
   ]
 }
